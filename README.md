@@ -1,5 +1,5 @@
 # Thesis
-Algorithm for detecting exceptional values developed during my thesis
+Algorithm for detecting exceptional values developed for my thesis project.
 
 Contains:
 - Two notebooks, one rendering the outcome in HTML and the other in PNG.
